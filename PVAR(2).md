@@ -4,7 +4,7 @@ clear all
 set more off
 
 // 0. 작업 폴더 설정 (필요시 변경)
-cd "C:\Users\ksmw9\Desktop\상상과 창조\DGB 논문 공모전\master_csv"
+cd "C:\Users\ksmw9\Desktop\상상과 창조\DB 논문 공모전\master_csv"
 
 // 1. CSV 파일 불러오기
 import delimited "panel_data_clean1.csv", clear
